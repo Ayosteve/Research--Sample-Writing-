@@ -8,7 +8,7 @@ This repository showcases a selection of my professional research writing sample
 - [Executive Summary](./Sample_Executive_Summary.pdf)  
 - [Literature Review](./Sample_Literature_Review.pdf)  
 - [Methodology](./Sample_Methodology.pdf)  
-- [Questionnaire](./Sample_Questionnaire(2).pdf)  
+- [Questionnaire](./Sample_Questionnaire.pdf)  
 
 📩 **Contact me**  
 - Email: akinniyiayoade16@gmail.com  
